@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hotkey-cheatsheet-template.svg">
+  <title
+     id="title4143">hotkey cheatsheet template</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="575.71599"
+     inkscape:cy="582.34382"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hotkey cheatsheet template</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>matthew marchese</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="logo">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path4141"
+       sodipodi:cx="1187.9395"
+       sodipodi:cy="104.83913"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3.26548"
+       sodipodi:radius="48.82288"
+       sodipodi:argument="-20.090988"
+       sodipodi:t0="0"
+       d="m 1187.9395,104.83913 c 0.7273,-2.12801 3.2273,-0.0694 3.5368,1.20896 0.8388,3.46423 -2.9163,5.92922 -5.9548,5.86481 -5.435,-0.11521 -8.7985,-5.6876 -8.1927,-10.70065 0.889,-7.356861 8.4868,-11.726338 15.4465,-10.52068 9.2761,1.606953 14.6775,11.29478 12.8486,20.19236 -2.3014,11.19669 -14.1065,17.64032 -24.9382,15.17653 -13.1186,-2.98398 -20.6099,-16.92038 -17.5045,-29.684053 3.6597,-15.041542 19.7356,-23.583761 34.4299,-19.832393 16.9653,4.331102 26.5604,22.551551 22.1604,39.175756 -4.9997,18.88947 -25.3682,29.53902 -43.9216,24.48825 -20.8142,-5.66621 -32.5191,-28.18526 -26.8162,-48.667453 6.3313,-22.739123 31.0026,-35.500208 53.4133,-29.144109 24.6643,6.995298 38.4821,33.820343 31.472,58.159152 -0.4376,1.51927 -0.9494,3.01713 -1.5328,4.48659" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="keys" />
+</svg>
